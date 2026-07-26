@@ -8,13 +8,13 @@
 }
 .svgbob text {
     white-space: pre;
-    fill: orange;
+    fill: black;
     font-family: Iosevka Fixed, monospace;
     font-size: 14px;
 }
 .svgbob rect.backdrop {
     stroke: none;
-    fill: blue;
+    fill: #87CEFA;
 }
 .svgbob .broken {
     stroke-dasharray: 8;
